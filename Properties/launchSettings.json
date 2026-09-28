@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MedCore.Nucleo": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
